@@ -1,0 +1,27 @@
+{
+  "name": "uata",
+  "version": "1.0.0",
+  "description": "Whatsapp bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiuri/uata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiuri/uata/issues"
+  },
+  "homepage": "https://github.com/raiuri/uata#readme",
+  "dependencies": {
+    "venom-bot": "^3.0.12"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "typescript": "^4.2.3"
+  }
+}

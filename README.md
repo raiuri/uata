@@ -1,2 +1,2 @@
 # uata
-Whatsapp bot
+Whatsapp bot client
